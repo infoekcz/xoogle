@@ -1,4 +1,6 @@
-<h1 align="center">LibreX</h1>
+<h1 align="center">Xoogle.cz/LibreX</h1>
+Xoogle.cz je instance LibreX určená pro uživatelé z Česka a Slovenska. Vyhledávač poskytuje výsledky webů z Googlu, ale na rozdíl od Googlu a dalších vyhledávačů nijak nesleduje uživatele, nemá reklamy, žádné analytické nástroje a neukládá vaše vyhledávání ani IP adresy.
+Xoogle můžete používat na jakémkoliv zařízení. Dostupný je na adresách Xoogle.cz a sk.xoogle.cz. O všech aktualizacích, novinkách a návody najdete na blogu projektu Blog.Xoogle.cz. 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49120638/215327189-76c54dec-8b19-4faf-8c39-29a61aa3b143.png" width="400">
