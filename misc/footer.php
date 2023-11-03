@@ -10,7 +10,7 @@
 <div class="git-container">
     <?php
         $hash = file_get_contents(".git/refs/heads/main");
-        echo "<a href=\"https://github.com/hnhx/librex/commit/$hash\" target=\"_blank\">Latest commit: $hash</a>";
+        echo "<a href=\"https://github.com/infoekcz/xoogle/commit/$hash\" target=\"_blank\">Latest commit: $hash</a>";
     ?>
 </div>
 </body>
